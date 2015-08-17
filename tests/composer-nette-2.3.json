@@ -1,0 +1,26 @@
+{
+    "name": "instante/responses",
+    "type": "library",
+    "description": "",
+    "keywords": [
+        "nette",
+        "instante"
+    ],
+    "license": [
+        "BSD-3-Clause",
+        "GPL-2.0",
+        "GPL-3.0"
+    ],
+    "require": {
+        "nette/nette": "2.3.*"
+    },
+    "require-dev": {
+        "nette/tester": "@dev",
+        "jakub-onderka/php-parallel-lint": "~0.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "Instante\\Application\\Responses\\": "src/"
+        }
+    }
+}
