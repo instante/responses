@@ -1,6 +1,6 @@
 <?php
 
-namespace InstanteTests\Application\UI;
+namespace InstanteTests\Application\Responses;
 
 use Instante\Application\Responses\StringResponse;
 use Instante\Application\Responses\VirtualFileResponse;
