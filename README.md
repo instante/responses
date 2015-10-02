@@ -1,6 +1,10 @@
 Instante responses
 ======
 
+[![Build Status](https://travis-ci.org/instante/responses.svg?branch=master)](https://travis-ci.org/instante/responses)
+[![Downloads this Month](https://img.shields.io/packagist/dm/instante/responses.svg)](https://packagist.org/packages/instante/responses)
+[![Latest stable](https://img.shields.io/packagist/v/instante/responses.svg)](https://packagist.org/packages/instante/responses)
+
 Requirements
 ------------
 
