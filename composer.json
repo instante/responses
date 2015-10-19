@@ -19,7 +19,7 @@
         "jakub-onderka/php-parallel-lint": "~0.6"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Instante\\Application\\Responses\\": "src/"
         }
     }

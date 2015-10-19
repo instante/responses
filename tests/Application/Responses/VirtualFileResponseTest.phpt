@@ -1,6 +1,6 @@
 <?php
 
-namespace InstanteTests\Application\Responses;
+namespace Instante\Tests\Application\Responses;
 
 use Instante\Application\Responses\VirtualFileResponse;
 use Nette\Http\IRequest;
